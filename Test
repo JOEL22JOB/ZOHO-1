@@ -14,7 +14,7 @@ int main()
             for(j=0;j<i;j++)
             {
             if(x+j<=len-2)
-                printf("* ");
+                printf("   ");
              
             for(k=0;k<=x;k++)
             {
